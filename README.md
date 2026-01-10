@@ -9,6 +9,7 @@ interface Mother {
 }
 
 // Child class implementing multiple interfaces
+//c
 class Child implements Father, Mother {
 
     public void fatherProperty() {
